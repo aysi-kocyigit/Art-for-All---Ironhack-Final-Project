@@ -1,0 +1,7 @@
+[theme]
+base = "light"
+primaryColor = "#6E59A5"            # muted museum-plum accent
+backgroundColor = "#FAFAF8"         # gallery white (warm)
+secondaryBackgroundColor = "#EEEDE8"# soft exhibit panel
+textColor = "#1B1B1F"               # near-black for crisp type
+font = "sans serif"
