@@ -1,0 +1,279 @@
+{
+  "red": {
+    "emotions": ["passionate", "energetic", "angry", "intense", "dramatic"],
+    "psychology": "High arousal and urgency; associated with love, danger, heat, and vitality."
+  },
+  "crimson": {
+    "emotions": ["intense", "dramatic", "passionate", "angry"],
+    "psychology": "Deeper red; heightened emotion, ceremony, and power."
+  },
+  "burgundy": {
+    "emotions": ["serious", "elegant", "intense", "somber"],
+    "psychology": "Wine-red depth; maturity, luxury, and gravitas."
+  },
+  "maroon": {
+    "emotions": ["serious", "intense", "grounded"],
+    "psychology": "Brownish red; tradition and dependability with heat."
+  },
+
+  "orange": {
+    "emotions": ["warm", "friendly", "energetic", "playful", "joyful"],
+    "psychology": "Sociability and appetite; lively, extroverted warmth."
+  },
+  "coral": {
+    "emotions": ["friendly", "joyful", "warm"],
+    "psychology": "A playful bridge between orange and pink; upbeat and approachable."
+  },
+  "peach": {
+    "emotions": ["gentle", "warm", "comforting", "joyful"],
+    "psychology": "Soft hospitality; approachable warmth."
+  },
+  "salmon": {
+    "emotions": ["gentle", "friendly", "calm"],
+    "psychology": "Lower-arousal warmth; soft vitality."
+  },
+  "rust": {
+    "emotions": ["earthy", "warm", "serious"],
+    "psychology": "Weathered orange-brown; rugged authenticity."
+  },
+  "terracotta": {
+    "emotions": ["earthy", "warm", "comforting"],
+    "psychology": "Clay warmth; handmade, grounded calm."
+  },
+  "amber": {
+    "emotions": ["warm", "optimistic", "energetic"],
+    "psychology": "Golden-orange glow; inviting radiance."
+  },
+  "mustard": {
+    "emotions": ["warm", "retro", "grounded"],
+    "psychology": "Muted yellow-orange; cozy vintage stability."
+  },
+
+  "yellow": {
+    "emotions": ["joyful", "optimistic", "energetic", "anxious"],
+    "psychology": "Brightness and attention; cheerful at moderate saturation, tense when overused."
+  },
+  "gold": {
+    "emotions": ["luxurious", "joyful", "powerful", "warm"],
+    "psychology": "Opulence and celebration; radiant highlight and prestige."
+  },
+
+  "green": {
+    "emotions": ["peaceful", "natural", "balanced", "refreshing", "contemplative"],
+    "psychology": "Nature, growth, and balance; restorative and grounding."
+  },
+  "sage": {
+    "emotions": ["calm", "natural", "balanced"],
+    "psychology": "Muted herb green; soothing, contemporary tranquility."
+  },
+  "olive": {
+    "emotions": ["earthy", "serious", "grounded"],
+    "psychology": "Natural restraint; utilitarian calm."
+  },
+  "chartreuse": {
+    "emotions": ["energetic", "fresh", "playful"],
+    "psychology": "Electric yellow-green; zippy, modern vitality."
+  },
+  "lime": {
+    "emotions": ["fresh", "joyful", "energetic"],
+    "psychology": "Citrus clarity; crisp, zingy brightness."
+  },
+  "mint": {
+    "emotions": ["refreshing", "calm", "gentle"],
+    "psychology": "Cooling friendliness; spa-like ease."
+  },
+  "emerald": {
+    "emotions": ["luxurious", "calm", "balanced"],
+    "psychology": "Jewel-tone depth; richness with harmony."
+  },
+  "forest": {
+    "emotions": ["natural", "serious", "calm"],
+    "psychology": "Deep green; stability, endurance, and quiet."
+  },
+
+  "blue": {
+    "emotions": ["calm", "peaceful", "melancholy", "serene", "contemplative"],
+    "psychology": "Stability and depth; soothing but can feel distant or sad in darker tones."
+  },
+  "sky": {
+    "emotions": ["peaceful", "open", "calm"],
+    "psychology": "Light blue; expansiveness and clarity."
+  },
+  "azure": {
+    "emotions": ["calm", "refreshing", "clear"],
+    "psychology": "Bright mid-blue; crisp cleanliness."
+  },
+  "cerulean": {
+    "emotions": ["calm", "refreshing", "serene"],
+    "psychology": "Sea-sky blue; modern serenity."
+  },
+  "cobalt": {
+    "emotions": ["intense", "cool", "confident"],
+    "psychology": "Strong pigmentary blue; assertive clarity."
+  },
+  "ultramarine": {
+    "emotions": ["contemplative", "mysterious", "calm"],
+    "psychology": "Deep historic blue; spiritual solemnity."
+  },
+  "navy": {
+    "emotions": ["calm", "serious", "contemplative", "somber"],
+    "psychology": "Authority and depth; disciplined, formal calm."
+  },
+  "teal": {
+    "emotions": ["calm", "balanced", "contemplative", "mysterious"],
+    "psychology": "Sophisticated blue-green; depth with restraint."
+  },
+  "turquoise": {
+    "emotions": ["refreshing", "calm", "joyful", "contemplative"],
+    "psychology": "Water clarity and tropical freshness; playful serenity."
+  },
+  "cyan": {
+    "emotions": ["refreshing", "calm", "clean"],
+    "psychology": "Printer’s blue; crisp technical clarity."
+  },
+
+  "purple": {
+    "emotions": ["mysterious", "spiritual", "luxurious", "contemplative"],
+    "psychology": "Mix of red’s energy and blue’s calm; suggests mystique and introspection."
+  },
+  "violet": {
+    "emotions": ["mysterious", "contemplative", "spiritual", "calm"],
+    "psychology": "Adjacent to purple; quiet mystique and inner focus."
+  },
+  "indigo": {
+    "emotions": ["mysterious", "contemplative", "calm", "melancholy"],
+    "psychology": "Night-sky depth; spiritual introspection and solemnity."
+  },
+  "lavender": {
+    "emotions": ["gentle", "calm", "romantic"],
+    "psychology": "Pastel purple; softness, nostalgia, and care."
+  },
+  "lilac": {
+    "emotions": ["gentle", "calm", "playful"],
+    "psychology": "Spring-like purple; lighthearted calm."
+  },
+  "mauve": {
+    "emotions": ["romantic", "contemplative", "nostalgic"],
+    "psychology": "Muted purple; vintage restraint."
+  },
+  "magenta": {
+    "emotions": ["energetic", "joyful", "intense", "playful"],
+    "psychology": "Vivid, attention-grabbing; expressive and contemporary."
+  },
+  "fuchsia": {
+    "emotions": ["energetic", "bold", "playful"],
+    "psychology": "Hot pink-purple; flashy confidence."
+  },
+
+  "pink": {
+    "emotions": ["tender", "gentle", "romantic", "calm"],
+    "psychology": "Nurturing softness; affectionate and comforting."
+  },
+  "rose": {
+    "emotions": ["romantic", "gentle", "warm"],
+    "psychology": "Classic soft pink; affection and poise."
+  },
+  "blush": {
+    "emotions": ["tender", "calm", "romantic"],
+    "psychology": "Powdery pink; delicate ease."
+  },
+  "hot_pink": {
+    "emotions": ["energetic", "bold", "playful"],
+    "psychology": "Pop vibrancy; extroverted fun."
+  },
+
+  "brown": {
+    "emotions": ["earthy", "stable", "reliable", "calm"],
+    "psychology": "Grounded authenticity; rustic, secure, sometimes heavy."
+  },
+  "taupe": {
+    "emotions": ["neutral", "calm", "serious"],
+    "psychology": "Gray-brown; understated sophistication."
+  },
+  "chocolate": {
+    "emotions": ["earthy", "comforting", "serious"],
+    "psychology": "Rich brown; warmth and indulgence."
+  },
+  "mahogany": {
+    "emotions": ["serious", "warm", "elegant"],
+    "psychology": "Reddish brown; heritage and craft."
+  },
+  "bronze": {
+    "emotions": ["earthy", "elegant", "powerful"],
+    "psychology": "Metallic brown; durability and prestige."
+  },
+  "copper": {
+    "emotions": ["warm", "earthy", "energetic"],
+    "psychology": "Metallic orange-brown; artisanal warmth."
+
+  },
+
+  "black": {
+    "emotions": ["powerful", "elegant", "mysterious", "somber"],
+    "psychology": "Authority and sophistication; also mourning and severity."
+  },
+  "charcoal": {
+    "emotions": ["serious", "calm", "reserved"],
+    "psychology": "Very dark gray; modern minimalism and weight."
+  },
+
+  "white": {
+    "emotions": ["pure", "clean", "calm", "minimal", "peaceful"],
+    "psychology": "Simplicity, clarity, and openness; can feel clinical when overused."
+  },
+  "ivory": {
+    "emotions": ["gentle", "calm", "elegant"],
+    "psychology": "Warm off-white; classic refinement."
+  },
+  "cream": {
+    "emotions": ["calm", "comforting", "gentle"],
+    "psychology": "Soft off-white; cozy clarity."
+  },
+  "alabaster": {
+    "emotions": ["pure", "calm", "quiet"],
+    "psychology": "Stone white; clean, museum-like neutrality."
+  },
+
+  "gray": {
+    "emotions": ["neutral", "reserved", "melancholy", "calm"],
+    "psychology": "Balance and understatement; cool restraint, can feel distant."
+  },
+  "grey": {
+    "emotions": ["neutral", "reserved", "melancholy", "calm"],
+    "psychology": "Alias of gray to catch UK spelling; see gray for interpretation."
+  },
+  "slate": {
+    "emotions": ["serious", "calm", "cool"],
+    "psychology": "Blue-gray; stable modernity."
+  },
+  "gunmetal": {
+    "emotions": ["serious", "powerful", "cool"],
+    "psychology": "Dark metallic gray; tech authority."
+  },
+  "pewter": {
+    "emotions": ["calm", "elegant", "cool"],
+    "psychology": "Soft metallic gray; subdued refinement."
+  },
+
+  "beige": {
+    "emotions": ["calm", "gentle", "neutral", "peaceful"],
+    "psychology": "Soft neutrality and warmth; subtle, backgrounded calm."
+  },
+  "sand": {
+    "emotions": ["calm", "natural", "gentle"],
+    "psychology": "Beach/stone association; relaxed simplicity."
+  },
+  "tan": {
+    "emotions": ["calm", "earthy", "neutral"],
+    "psychology": "Light brown; approachable naturalness."
+  },
+  "khaki": {
+    "emotions": ["natural", "calm", "serious"],
+    "psychology": "Utility neutrality; practical restraint."
+  },
+
+  "silver": {
+    "emotions": ["elegant", "calm", "mysterious", "contemplative"],
+    "psychology": "Cool refinement, technology, and moonlight associations."
+  }
+}

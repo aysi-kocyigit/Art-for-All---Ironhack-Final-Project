@@ -1,0 +1,86 @@
+{
+  "chiaroscuro": {
+    "name": "Chiaroscuro",
+    "description": "Strong contrasts between light and dark to model form and create depth.",
+    "emotional_impact": "Drama, tension, mystery.",
+    "artists": ["Caravaggio", "Rembrandt"]
+  },
+  "sfumato": {
+    "name": "Sfumato",
+    "description": "Soft transitions between tones and colors without harsh lines.",
+    "emotional_impact": "Calm, subtlety, contemplation.",
+    "artists": ["Leonardo da Vinci", "Correggio"]
+  },
+  "impasto": {
+    "name": "Impasto",
+    "description": "Thick, textured paint application that emphasizes brushwork.",
+    "emotional_impact": "Energy, immediacy, intensity.",
+    "artists": ["Vincent van Gogh", "Frank Auerbach"]
+  },
+  "glazing": {
+    "name": "Glazing",
+    "description": "Multiple transparent layers of paint to enrich color and luminosity.",
+    "emotional_impact": "Radiance, depth, serenity.",
+    "artists": ["Titian", "Jan van Eyck"]
+  },
+  "pointillism": {
+    "name": "Pointillism",
+    "description": "Dots of pure color placed side by side to optically mix at a distance.",
+    "emotional_impact": "Vibrancy, shimmer, precision.",
+    "artists": ["Georges Seurat", "Paul Signac"]
+  },
+  "alla_prima": {
+    "name": "Alla Prima",
+    "description": "Direct painting in one session without detailed underlayers.",
+    "emotional_impact": "Spontaneity, freshness, boldness.",
+    "artists": ["John Singer Sargent", "Claude Monet"]
+  },
+  "collage": {
+    "name": "Collage",
+    "description": "Combining pasted materials (paper, fabric, photos) into the composition.",
+    "emotional_impact": "Playfulness, fragmentation, surprise.",
+    "artists": ["Pablo Picasso", "Hannah Höch"]
+  },
+  "assemblage": {
+    "name": "Assemblage",
+    "description": "3D collage using found objects to create mixed-media works.",
+    "emotional_impact": "Provocation, texture, materiality.",
+    "artists": ["Louise Nevelson", "Robert Rauschenberg"]
+  },
+  "frottage": {
+    "name": "Frottage",
+    "description": "Rubbings taken from textured surfaces to generate forms.",
+    "emotional_impact": "Chance, eeriness, discovery.",
+    "artists": ["Max Ernst"]
+  },
+  "dripping": {
+    "name": "Dripping",
+    "description": "Pouring or dripping paint onto canvas to build rhythmic patterns.",
+    "emotional_impact": "Chaos, dynamism, catharsis.",
+    "artists": ["Jackson Pollock", "Lee Krasner"]
+  },
+  "color_field": {
+    "name": "Color Field",
+    "description": "Large areas of flat color for immersive, meditative effects.",
+    "emotional_impact": "Awe, contemplation, stillness.",
+    "artists": ["Mark Rothko", "Barnett Newman"]
+  },
+  "tenebrism": {
+    "name": "Tenebrism",
+    "description": "Extreme chiaroscuro with deep shadows and spotlight-like illumination.",
+    "emotional_impact": "High drama, spiritual intensity.",
+    "artists": ["Caravaggio", "Artemisia Gentileschi"]
+  },
+  "linear_perspective": {
+    "name": "Linear Perspective",
+    "description": "Geometric construction of space with vanishing points.",
+    "emotional_impact": "Order, clarity, realism.",
+    "artists": ["Leon Battista Alberti", "Piero della Francesca"]
+  },
+  "atmospheric_perspective": {
+    "name": "Atmospheric Perspective",
+    "description": "Depth via color/light shifts: distant forms lighter and bluer.",
+    "emotional_impact": "Vastness, tranquility, distance.",
+    "artists": ["J. M. W. Turner", "Caspar David Friedrich"]
+  }
+}
