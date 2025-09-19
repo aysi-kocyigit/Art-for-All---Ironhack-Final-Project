@@ -1,4 +1,4 @@
-# Art-for-All---Ironhack-Final-Project
+# Art-for-All - Ironhack-Final-Project
 
 Art for All is a Streamlit application that helps viewers articulate why an artwork feels the way it does.
 Upload an image, describe your emotions, and receive:
